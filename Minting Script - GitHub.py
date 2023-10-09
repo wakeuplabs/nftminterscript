@@ -7,7 +7,7 @@ headers = {
     "apikey": api_key
 }
 
-addresses = ["0xExample1", "0xExample2", "0x000000000000000000000000000000000000dEaD"] #Replace with the Recipient's address
+addresses = ["0xExample1", "0xExample2", "0x000000000000000000000000000000000000dEaD"] #Replace with Recipient's addresses
 
 payload = {
     "contractId": "648p3eb09c01e2cab99a",  # Replace with your contract ID
